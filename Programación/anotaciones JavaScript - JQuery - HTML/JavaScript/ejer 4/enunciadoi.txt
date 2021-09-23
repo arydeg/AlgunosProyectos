@@ -1,1 +1,0 @@
-mostrar todos los numeros impares q hay entre dos numeros introducidos por el usuario
