@@ -1,0 +1,4 @@
+1 formulario con campos: nombre, apellidos y edad
+2 boton de enviar el formulario: evento submit
+3 mostrar datos por pantalla
+4 validacion del formulario

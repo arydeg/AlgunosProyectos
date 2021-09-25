@@ -1,0 +1,8 @@
+1. pida 6 numeros por pantalla y los meta en un arr
+2. mostrar el array entero (todos sus elementos) en el cuerpo de la pagina y en la consola
+3. ordenarlo y mostrarlo
+4. invertir su orden y mostrarlo
+5. mostrar cuantos elementos tiene
+6. busca un valor introducido por el usu, q nos diga si lo encuentra y su indice
+
+
