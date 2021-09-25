@@ -1,5 +1,0 @@
-D:\Documentos\PROYECTOS\Proyectos_VisualStudio\Facturacion\MiLibreria\bin\Debug\MiLibreria.dll
-D:\Documentos\PROYECTOS\Proyectos_VisualStudio\Facturacion\MiLibreria\bin\Debug\MiLibreria.pdb
-D:\Documentos\PROYECTOS\Proyectos_VisualStudio\Facturacion\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
-D:\Documentos\PROYECTOS\Proyectos_VisualStudio\Facturacion\MiLibreria\obj\Debug\MiLibreria.dll
-D:\Documentos\PROYECTOS\Proyectos_VisualStudio\Facturacion\MiLibreria\obj\Debug\MiLibreria.pdb
