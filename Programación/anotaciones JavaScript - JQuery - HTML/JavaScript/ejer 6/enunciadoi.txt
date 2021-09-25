@@ -1,0 +1,3 @@
+que diga si un numero es par o impar
+1 ventana de prompt
+2 si no es valido que pida nuevo num

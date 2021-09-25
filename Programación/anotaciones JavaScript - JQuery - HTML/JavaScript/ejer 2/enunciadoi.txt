@@ -1,0 +1,1 @@
+utilizando un bucle mostrar la suma y la media de los numero introducidos hasta introducir un numero negativo ahi mostrar el resultado

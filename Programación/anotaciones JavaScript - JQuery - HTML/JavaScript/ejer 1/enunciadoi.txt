@@ -1,0 +1,3 @@
+programa q de dos numeros obtenidos por el usu rte diga el mayor, el menor o si son iguales
+
+plus informar si no es un numero

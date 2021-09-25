@@ -1,0 +1,1 @@
+muestre todos los numeros divisores de un numero introduce en prompt
